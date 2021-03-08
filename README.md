@@ -16,12 +16,15 @@ Luokan tulee toimia seuraavalla tavalla: \
 ● Luokalta saa kysyttyä syötetyn työvuoron pituuden \
 ○ Työvuoron pituus palautetaan tunteina (desimaalina) \
 ● Luokan suunnittelussa tulee noudattaa olio-ohjelmoinnin käytäntöjä \
-● Toiminnallisuudessa tulee olla mukana “client”, joka käyttää uutta luokkaa \
+● Toiminnallisuudessa tulee olla mukana “client”, joka käyttää uutta luokkaa 
 
 Käytä tehtävän tekemiseen noin 2 - 3 tuntia korkeintaan. Kirjoita lyhyt kuvaus miten
 ymmärsit annetun ongelman, mitä haasteita toteuttamisessa oli, mitä parannettavaa
 ratkaisusta vielä löytyisi. Jos jouduit tekemään kompromisseja toteutuksessa, niin
-kuulisimme mielellämme lisää niistä. \
+kuulisimme mielellämme lisää niistä. 
+
+
+POHDINTAA OMASTA TEKEMISESTÄ:
 
 
 Ymmärsin ongelman yksinkertaisena luokkatehtävänä, joka tulee toteuttaa olio-ohjelmoinnin perustein. Lähdin liikkeelle tutustumalla datetime rakenteeseen, sillä sitä ei ollut tarvinnut käyttää varmaan vuoteen. Tämän jälkeen pohdin kuinka työvuoron pituuden saa laskettua yksinkertaisimmin. Ajattelin ensin toteuttaa sen laskemalla erikseen tunnit ja minuutit, mutta totesin, että se on helpompaa laskea suoraan minuuteista, sillä vaatimuksena oli, että lopetusaika on aloitusajan jälkeen eikä työaika siten pystynyt menemään negatiiviseksi. 
